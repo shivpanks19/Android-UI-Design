@@ -20,7 +20,7 @@ Based on tutorial: <a href="https://www.youtube.com/watch?v=byLKoPgB7yA">TVAC St
 
 <p align="center">PROFILE SCREEN</p>
 <p align="center">
-<img src="https://github.com/KaSoB/Android-UI-Design/blob/master/Screens/ProfileScreen0.png" width="400"/>
+<img src="https://github.com/KaSoB/Android-UI-Design/blob/master/Screens/ProfileScreen1.png" width="400"/>
 <img src="https://github.com/KaSoB/Android-UI-Design/blob/master/Screens/ProfileScreen0.png" width="400"/>
 </p>
 
