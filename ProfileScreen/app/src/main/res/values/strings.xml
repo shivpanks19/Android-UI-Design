@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Profile Screen</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="follow">Follow</string>
+    <string name="bio">Bio</string>
+</resources>
